@@ -1,2 +1,4 @@
 A
 Function 1
+
+Merge 2
